@@ -1,0 +1,49 @@
+body{
+    background-color: #103661;
+}
+
+label{
+    color: #CFD3D7;
+    margin-top: 30px;
+}
+
+input{
+    width: 400px;
+    height: 56px;
+    border: 1px solid #387AE7;
+    background: #4F5A68;
+    
+}
+
+textarea{
+    width: 400px;
+    height: 120px;
+    border: 1px solid #387AE7;
+    background: #4F5A68;
+}
+
+h1{
+    color: white;
+font-family: Raleway;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+}
+
+.gagzavna{
+    margin-top: 107px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px; 
+    height: 56px;
+    
+}
+
+button{
+    font-size: 14px;
+    color: white;
+    border-radius: 8px;
+     background: #3A86FF;
+     padding: 16px 48px;
+
+}
